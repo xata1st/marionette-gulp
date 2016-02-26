@@ -1,0 +1,37 @@
+{
+  "name": "marionette-gulp",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Siarhei Vlasko"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "backbone",
+    "marionette",
+    "handlebars",
+    "require"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "underscore": "*",
+    "backbone": "*",
+    "backbone.marionette": "*",
+    "backbone.localstorage": "*",
+    "backbone.radio": "*",
+    "requirejs": "*",
+    "requirejs-text": "*",
+    "handlebars": "*",
+    "es6-promise": "*",
+    "bootstrap-sass": "*"
+  }
+}
