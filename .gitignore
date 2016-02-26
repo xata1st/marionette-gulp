@@ -1,5 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Yeoman template
+.idea/
 node_modules/
 bower_components/
 *.log
